@@ -3,7 +3,7 @@
 ### 6/12~18 문제
 | 1 | 2 | 3 | 4 |
 |------|------|------|------|
-| 귤 고르기 | 프로세스 | 테이블 해시 | n진수 게임 |
+| 귤 고르기 | 프로세스 | 테이블 해시 함수 | n진수 게임 |
 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |
 
 <br><br>
