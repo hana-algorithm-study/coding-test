@@ -1,6 +1,6 @@
 # coding-test
 
-### 5주차: 6/19~25 문제
+### 6주차: 6/26~7/2 문제
 | 1 | 2 | 3 | 4 |
 |------|------|------|------|
 | 예상 대진표 | 숫자의 표현 | 점프와 순간 이동 | H-Index |
@@ -43,5 +43,13 @@
 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/42586) |
 
 
+<br></br>
+***
+<br></br>
+### 1주차: 5/22~28 문제
+| 1 | 2 | 3 | 4 |
+|------|------|------|------|
+| 괄호 회전하기 | 모음사전 | 2개 이하로 다른 비트 | 수식 최대화 |
+| [링크](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/67257) |
 
 
