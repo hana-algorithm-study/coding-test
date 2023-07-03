@@ -1,5 +1,15 @@
 # coding-test
 
+### 7주차: 7/3~9 문제
+| 1 | 2 | 3 | 4 |
+|------|------|------|------|
+| 다리를 지나는 트럭 | 무인도 여행 | 디펜스 게임  | 멀쩡한 사각형 |
+| [링크](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/62048) |
+
+<br><br>
+***
+<br></br>
+
 ### 6주차: 6/26~7/2 문제
 | 1 | 2 | 3 | 4 |
 |------|------|------|------|
