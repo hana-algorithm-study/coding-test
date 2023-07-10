@@ -1,4 +1,12 @@
 # coding-test
+### 8주차: 7/10~16 문제
+| 1 | 2 | 3 | 4 |
+|------|------|------|------|
+| 다음 큰 숫자 | 리코챗 로못 | 피로도  | 파일명 정렬 |
+| [링크](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |
+
+<br><br>
+***
 
 ### 7주차: 7/3~9 문제
 | 1 | 2 | 3 | 4 |
