@@ -1,17 +1,27 @@
 # coding-test
+### 9주차: 7/17~23 문제
+| 1 | 2 | 3 | 4 |
+|------|------|------|------|
+| n^2 배열 자르기 | 캐시 | 더 맵게 | 게임 맵 최단거리 |
+| [링크](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/1844) |
+
+<br><br>
+***
+<br><br>
+# coding-test
 ### 8주차: 7/10~16 문제
 | 1 | 2 | 3 | 4 |
 |------|------|------|------|
-| 다음 큰 숫자 | 네트워크 | 피로도  | 파일명 정렬 |
+| 다음 큰 숫자 | 네트워크 | 피로도 | 파일명 정렬 |
 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |
 
 <br><br>
 ***
-
+<br><br>
 ### 7주차: 7/3~9 문제
 | 1 | 2 | 3 | 4 |
 |------|------|------|------|
-| 다리를 지나는 트럭 | 무인도 여행 | 디펜스 게임  | 멀쩡한 사각형 |
+| 다리를 지나는 트럭 | 무인도 여행 | 디펜스 게임 | 멀쩡한 사각형 |
 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/62048) |
 
 <br><br>
@@ -59,7 +69,6 @@
 |------|------|------|------|
 | 구명보트 | 체육복 | 짝지어 제거하기 | 기능개발 |
 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/42586) |
-
 
 <br></br>
 ***
