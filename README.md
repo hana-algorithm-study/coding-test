@@ -1,4 +1,14 @@
 # coding-test
+
+<br><br>
+### 10주차: 7/24~28 문제
+| 1 | 2 | 3 | 4 |
+|------|------|------|------|
+| 의상 | 튜플 | [1차] 뉴스 클러스터링 | 타겟 넘버
+ |
+| [링크](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
+
+
 <br><br>
 ### 9주차: 7/17~23 문제
 | 1 | 2 | 3 | 4 |
